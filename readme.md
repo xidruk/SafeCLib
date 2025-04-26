@@ -1,8 +1,11 @@
 # SafeClib - Secure Bounds-Checked C Library
 
-[![License](https://img.shields.io/badge/License-Your_License_Here-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+![Memory Safety](https://img.shields.io/badge/Memory-Safe%20Operations-brightgreen)
 
 A security-focused C library providing bounds-checked implementations of common memory/string operations to prevent buffer overflows and undefined behavior.
+
+![Memory Safety Concept](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Memory_Protection_Unit.svg/1200px-Memory_Protection_Unit.svg.png)
 
 ## Features
 
