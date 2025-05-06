@@ -35,5 +35,3 @@ cd safeclib
 # Build libraries and main executable
 make
 
-# Install system-wide (optional)
-sudo make install  # Might need to adjust paths
